@@ -9,4 +9,5 @@ site_areas: HackSpace
 steps:
   - title: Introduction
   - title: Converting the voltage
-  - title: Step title
+  - title: Assembly
+  - title: The front panel
