@@ -4,4 +4,4 @@ The final step is to install all the external elements on the front panel: switc
 
 Be careful handling the DC-to-DC voltage reduction module while it’s functioning, as some of its components (especially the DC-to-DC step-down converter) may become very hot. Make sure that it says cool enough not to damage your enclosure, and that there’s nothing that could catch fire.
 
-![the circuit diagram](images/step4.jpg)
+![the circuit diagram](images/step4.JPG)
