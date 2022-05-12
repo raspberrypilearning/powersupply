@@ -1,0 +1,13 @@
+title: Build a variable power supply
+hero_image: images/banner.jpg
+description: Get electrons into your circuits with the correct energy
+version: 4
+listed: false
+copyedit: false
+last_tested: "2018-04-16"
+site_areas: HackSpace
+steps:
+  - title: Introduction
+  - title: Converting the voltage
+  - title: Assembly
+  - title: The front panel
